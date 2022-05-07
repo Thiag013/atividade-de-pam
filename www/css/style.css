@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    margin-top: 10%;
+    font-size: 20px;
+}
+#scan{
+    font-family: 'Arial';
+    padding: 10px;
+    background-color: rgb(121, 113, 113);
+    font-size: 15px;
+    border-radius: 2rem;
+    width: 100%;
+    text-align: center;
+    transition: 2s;
+    cursor: pointer;
+    color: white;
+}
+
+#scan:hover{
+    background-color: white;
+    color: black;
+    width: 100%;
+}
+
+h1{
+    font-size: 'consolas';
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 17px;
+    margin-left:10%;
+}
+img.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+img.imagem1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.comprar{
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin-left: 5%;
+    width: 90%;
+    cursor: pointer;
+}
+
+
+
